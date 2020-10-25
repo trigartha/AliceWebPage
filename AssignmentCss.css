@@ -1,0 +1,104 @@
+body {
+    background-color: antiquewhite;
+    margin: 0 auto;
+    font-family: "Gayathri";
+    color: gray;
+    padding-top: 3rem;
+    
+}
+h1 {
+    padding-top: 5rem;
+    color: indianred;
+    font-family: "verdana";
+}
+h2 {
+    color: dimgray;
+    font-family: "verdana";
+}
+h3 {
+    color: dimgray;
+    font-family: "verdana";
+}
+a {
+    color: brown;
+}
+.card-title {
+    color: dimgray;
+}
+
+.navbar {
+    font-size: 1.5rem;
+    position: fixed;
+    display: block;
+    top: 0;
+    background-color: oldlace;
+    z-index: 99;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    border-color: gainsboro;
+}
+.nav-link {
+    color: indianred;
+}
+.nav-link:hover{
+    color:brown;
+}
+.jumbotron-image {
+    background-image: url(https://i.picsum.photos/id/102/1350/700.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-color: antiquewhite;
+    top:200px;
+    filter: alpha(opacity=40);
+}
+.bg-cards {
+    background-color: oldlace;
+}
+.btn-primary {
+    background-color: indianred;
+    font-family: "verdana";
+    border-color: brown;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: brown;
+    border-color: brown;
+}
+.btn-primary:hover,#CF4B , .btn-primary:focus, .btn-primary:active>{
+    color: brown;
+    background-color: brown;
+    border-color: brown; /*set the color you want here*/
+}
+.badge-adapted {
+    color: antiquewhite;
+    background-color: indianred;
+}
+.alice {
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    padding-top: 5rem;
+    font-family: "verdana";
+}
+.alicebody-text{
+    color:dimgray;
+}
+.character {
+    margin-top: 25%;
+}
+.form {
+    margin-bottom: 3rem;
+}
+.page-footer{
+    margin-top: :5rem;
+    background-color: oldlace;
+    color:indianred;
+}
+.footer-image {
+    background-color: transparent;
+}
+.link:hover {
+    color: black;
+    
+}
